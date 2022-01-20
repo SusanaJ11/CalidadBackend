@@ -1,0 +1,3 @@
+[submodule "NewCalidad"]
+	path = NewCalidad
+	url = https://github.com/Victeku/Calidad.git
